@@ -12,37 +12,29 @@ Core packages published by the EmDash team under the `@emdash-cms` npm organizat
 
 ### Core
 
-| Package | Description |
-|---------|-------------|
-| [@emdash-cms/admin](https://www.npmjs.com/package/@emdash-cms/admin) | Admin UI for EmDash CMS |
-| [@emdash-cms/auth](https://www.npmjs.com/package/@emdash-cms/auth) | Passkey-first authentication for EmDash |
-| [@emdash-cms/blocks](https://www.npmjs.com/package/@emdash-cms/blocks) | Declarative plugin UI blocks for EmDash CMS |
-| [@emdash-cms/x402](https://www.npmjs.com/package/@emdash-cms/x402) | x402 payment protocol integration for Astro sites |
+- [**@emdash-cms/admin**](https://www.npmjs.com/package/@emdash-cms/admin) — Admin UI for EmDash CMS
+- [**@emdash-cms/auth**](https://www.npmjs.com/package/@emdash-cms/auth) — Passkey-first authentication for EmDash
+- [**@emdash-cms/blocks**](https://www.npmjs.com/package/@emdash-cms/blocks) — Declarative plugin UI blocks for EmDash CMS
+- [**@emdash-cms/x402**](https://www.npmjs.com/package/@emdash-cms/x402) — x402 payment protocol integration for Astro sites
 
 ### Adapters
 
-| Package | Description |
-|---------|-------------|
-| [@emdash-cms/cloudflare](https://www.npmjs.com/package/@emdash-cms/cloudflare) | Cloudflare adapters - D1, R2, Access, and Worker Loader sandbox |
+- [**@emdash-cms/cloudflare**](https://www.npmjs.com/package/@emdash-cms/cloudflare) — Cloudflare adapters - D1, R2, Access, and Worker Loader sandbox
 
 ### Plugins
 
-| Package | Description |
-|---------|-------------|
-| [@emdash-cms/plugin-ai-moderation](https://www.npmjs.com/package/@emdash-cms/plugin-ai-moderation) | AI-powered comment moderation using Cloudflare Workers AI (Llama Guard) |
-| [@emdash-cms/plugin-atproto](https://www.npmjs.com/package/@emdash-cms/plugin-atproto) | AT Protocol / standard.site syndication |
-| [@emdash-cms/plugin-audit-log](https://www.npmjs.com/package/@emdash-cms/plugin-audit-log) | Audit logging - tracks content changes |
-| [@emdash-cms/plugin-color](https://www.npmjs.com/package/@emdash-cms/plugin-color) | Color picker field widget |
-| [@emdash-cms/plugin-embeds](https://www.npmjs.com/package/@emdash-cms/plugin-embeds) | Embed blocks - YouTube, Vimeo, Twitter, Bluesky, Mastodon |
-| [@emdash-cms/plugin-forms](https://www.npmjs.com/package/@emdash-cms/plugin-forms) | Build forms, collect submissions, send notifications |
-| [@emdash-cms/plugin-webhook-notifier](https://www.npmjs.com/package/@emdash-cms/plugin-webhook-notifier) | Post to external URLs on content changes |
+- [**@emdash-cms/plugin-ai-moderation**](https://www.npmjs.com/package/@emdash-cms/plugin-ai-moderation) — AI-powered comment moderation using Cloudflare Workers AI (Llama Guard)
+- [**@emdash-cms/plugin-atproto**](https://www.npmjs.com/package/@emdash-cms/plugin-atproto) — AT Protocol / standard.site syndication
+- [**@emdash-cms/plugin-audit-log**](https://www.npmjs.com/package/@emdash-cms/plugin-audit-log) — Audit logging - tracks content changes
+- [**@emdash-cms/plugin-color**](https://www.npmjs.com/package/@emdash-cms/plugin-color) — Color picker field widget
+- [**@emdash-cms/plugin-embeds**](https://www.npmjs.com/package/@emdash-cms/plugin-embeds) — Embed blocks - YouTube, Vimeo, Twitter, Bluesky, Mastodon
+- [**@emdash-cms/plugin-forms**](https://www.npmjs.com/package/@emdash-cms/plugin-forms) — Build forms, collect submissions, send notifications
+- [**@emdash-cms/plugin-webhook-notifier**](https://www.npmjs.com/package/@emdash-cms/plugin-webhook-notifier) — Post to external URLs on content changes
 
 ### Utilities
 
-| Package | Description |
-|---------|-------------|
-| [@emdash-cms/gutenberg-to-portable-text](https://www.npmjs.com/package/@emdash-cms/gutenberg-to-portable-text) | Convert WordPress Gutenberg blocks to Portable Text |
-| [@emdash-cms/marketplace](https://www.npmjs.com/package/@emdash-cms/marketplace) | Plugin marketplace Worker |
+- [**@emdash-cms/gutenberg-to-portable-text**](https://www.npmjs.com/package/@emdash-cms/gutenberg-to-portable-text) — Convert WordPress Gutenberg blocks to Portable Text
+- [**@emdash-cms/marketplace**](https://www.npmjs.com/package/@emdash-cms/marketplace) — Plugin marketplace Worker
 
 ## Community Plugins
 
@@ -52,5 +44,5 @@ _Coming Soon_
 
 ## Resources
 
-- [EmDash CMS](https://emdash.com) - Official website
-- [npmjs.com/org/emdash-cms](https://www.npmjs.com/org/emdash-cms) - All official packages
+- [EmDash CMS](https://emdash.com) — Official website
+- [npmjs.com/org/emdash-cms](https://www.npmjs.com/org/emdash-cms) — All official packages
