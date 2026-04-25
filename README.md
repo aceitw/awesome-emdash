@@ -6,7 +6,7 @@ A curated list of EmDash CMS plugins and resources. EmDash is a new CMS, and thi
 
 _Inspired by [Awesome Lists](https://github.com/sindresorhus/awesome)_
 
-## Official Plugins
+## Official Packages
 
 Core packages published by the EmDash team under the `@emdash-cms` npm organization.
 
