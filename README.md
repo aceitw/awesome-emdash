@@ -57,6 +57,7 @@ Third-party plugins from the community. 36 plugins listed.
 ### SEO
 
 - [**@jdevalk/emdash-plugin-seo**](https://www.npmjs.com/package/@jdevalk/emdash-plugin-seo) — SEO plugin for EmDash CMS — meta tags, Open Graph, canonical URLs, robots directives, and JSON-LD schema markup [repo](https://github.com/jdevalk/emdash-plugin-seo) · [site](https://github.com/jdevalk/emdash-plugin-seo#readme)
+- [**@tagperfect/emdash-plugin-indexnow**](https://www.npmjs.com/package/@tagperfect/emdash-plugin-indexnow) — IndexNow submissions on publish, update, unpublish and delete, with per-locale URL rules, a submission log and a dashboard widget [repo](https://github.com/tagperfect/emdash-plugin-indexnow) · [site](https://github.com/tagperfect/emdash-plugin-indexnow#readme)
 
 ### Social
 
